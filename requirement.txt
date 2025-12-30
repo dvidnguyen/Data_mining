@@ -5,3 +5,6 @@ nbconvert
 notebook 
 jupyter 
 pandoc
+scikit-learn
+seaborn
+graphviz
