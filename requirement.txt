@@ -1,3 +1,7 @@
 pandas
 matplotlib
 pyarrow
+nbconvert 
+notebook 
+jupyter 
+pandoc
